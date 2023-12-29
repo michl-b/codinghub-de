@@ -1,1 +1,1 @@
-[choco](https://chocolatey.org)
+[choco](https://chocolatey.org) herunterladen und installieren
